@@ -1,0 +1,16 @@
+{
+  "name": "wyswsmrk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@jsheaven/easybuild": "^1.2.9",
+    "@wysimark/standalone": "^3.0.20"
+  },
+  "type": "module"
+}
